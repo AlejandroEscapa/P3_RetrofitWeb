@@ -1,0 +1,1 @@
+Práctica realizada para el Master de Android en la que recuperamos de una API ejemplo, nuestro usuario de prueba y una lista de hoteles para adaptarla a nuestra propuesta. Todo ello mediante la librería de Retrofit, además de otras librerías más como Glide.
